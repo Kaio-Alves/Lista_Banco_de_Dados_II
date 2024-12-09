@@ -63,6 +63,7 @@ O pacote `PKG_PROFESSOR` é responsável por operações relacionadas aos profes
 - O script deve ser executado em um banco de dados Oracle.
 - Para testar as funções e procedimentos dos pacotes, utilize o SQL Developer ou outra ferramenta para executar consultas e comandos `EXEC`.
 - Certifique-se de que o ambiente do banco de dados está configurado corretamente para suportar o script (ex.: permissões adequadas para criação de objetos).
+- Caso queira utilize um ambiente online : https://onecompiler.com/oracle/
 
 ## Exemplo de Execução
 
